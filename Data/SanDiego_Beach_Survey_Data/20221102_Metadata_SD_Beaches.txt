@@ -1,0 +1,187 @@
+filename	ATTRIBUTE_Sample-Type	ATTRIBUTE_Batch	ATTRIBUTE_Month	ATTRIBUTE_Year	ATTRIBUTE_Sample_Location	ATTRIBUTE_Replicate	ATTRIBUTE_Spot	ATTRIBUTE_Latitude	ATTRIBUTE_Longitude	ATTRIBUTE_Sample_Area	ATTRIBUTE_Spot_Name
+SD_10_2018_10_a.mzXML	Sample	3	Oct	2018	10	a	10	32.86261	-117.26042	SIO_La_Jolla_Shores	SIO_South_Pier
+SD_10_2018_10_b.mzXML	Sample	3	Oct	2018	10	b	10	32.86261	-117.26042	SIO_La_Jolla_Shores	SIO_South_Pier
+SD_10_2018_11_a.mzXML	Sample	3	Oct	2018	11	a	11	32.85601	-117.26253	SIO_La_Jolla_Shores	La_Jolla_Shores
+SD_10_2018_11_b.mzXML	Sample	3	Oct	2018	11	b	11	32.85601	-117.26253	SIO_La_Jolla_Shores	La_Jolla_Shores
+SD_10_2018_12_a.mzXML	Sample	3	Oct	2018	12	a	12	32.85161	-117.26965	La_Jolla_Cove	Cove
+SD_10_2018_12_b.mzXML	Sample	3	Oct	2018	12	b	12	32.85161	-117.26965	La_Jolla_Cove	Cove
+SD_10_2018_13_a.mzXML	Sample	3	Oct	2018	13	a	13	32.85197	-117.27703	La_Jolla_Cove	Cove
+SD_10_2018_13_b.mzXML	Sample	3	Oct	2018	13	b	13	32.85197	-117.27703	La_Jolla_Cove	Cove
+SD_10_2018_14_a.mzXML	Sample	3	Oct	2018	14	a	14	32.84638	-117.28355	La_Jolla Reefs	Hospitals
+SD_10_2018_14_b.mzXML	Sample	3	Oct	2018	14	b	14	32.84638	-117.28355	La_Jolla Reefs	Hospitals
+SD_10_2018_15_a.mzXML	Sample	3	Oct	2018	15	a	15	32.84007	-117.28664	La_Jolla Reefs	Horseshoe
+SD_10_2018_15_b.mzXML	Sample	3	Oct	2018	15	b	15	32.84007	-117.28664	La_Jolla Reefs	Horseshoe
+SD_10_2018_16_a.mzXML	Sample	3	Oct	2018	16	a	16	32.83142	-117.2872	La_Jolla Reefs	Little_Point
+SD_10_2018_16_b.mzXML	Sample	3	Oct	2018	16	b	16	32.83142	-117.2872	La_Jolla Reefs	Little_Point
+SD_10_2018_17_a.mzXML	Sample	3	Oct	2018	17	a	17	32.82428	-117.286	La_Jolla Reefs	Big_Rock
+SD_10_2018_17_b.mzXML	Sample	3	Oct	2018	17	b	17	32.82428	-117.286	La_Jolla Reefs	Big_Rock
+SD_10_2018_18_a.mzXML	Sample	3	Oct	2018	18	a	18	32.81743	-117.28343	La_Jolla Reefs	South_Bird
+SD_10_2018_18_b.mzXML	Sample	3	Oct	2018	18	b	18	32.81743	-117.28343	La_Jolla Reefs	South_Bird
+SD_10_2018_19_a.mzXML	Sample	3	Oct	2018	19	a	19	32.81039	-117.27733	La_Jolla Reefs	North_Bird
+SD_10_2018_19_b.mzXML	Sample	3	Oct	2018	19	b	19	32.81039	-117.27733	La_Jolla Reefs	North_Bird
+SD_10_2018_1_a.mzXML	Sample	3	Oct	2018	1	a	1	32.93365	-117.26483	Torrey_Pines	Lagoon_Outlet
+SD_10_2018_1_b.mzXML	Sample	3	Oct	2018	1	b	1	32.93365	-117.26483	Torrey_Pines	Lagoon_Outlet
+SD_10_2018_20_a.mzXML	Sample	3	Oct	2018	20	a	20	32.80386	-117.27325	Pacific_Beach	PB_Point
+SD_10_2018_20_b.mzXML	Sample	3	Oct	2018	20	b	20	32.80386	-117.27325	Pacific_Beach	PB_Point
+SD_10_2018_21_a.mzXML	Sample	3	Oct	2018	21	a	21	32.7955	-117.26497	Pacific_Beach	PB_Pier
+SD_10_2018_21_b.mzXML	Sample	3	Oct	2018	21	b	21	32.7955	-117.26497	Pacific_Beach	PB_Pier
+SD_10_2018_22_a.mzXML	Sample	3	Oct	2018	22	a	22	32.78525	-117.26188	Mission_Beach	Mission_Beach
+SD_10_2018_22_b.mzXML	Sample	3	Oct	2018	22	b	22	32.78525	-117.26188	Mission_Beach	Mission_Beach
+SD_10_2018_23_a.mzXML	Sample	3	Oct	2018	23	a	23	32.77471	-117.26068	Mission_Beach	Mission_Beach
+SD_10_2018_23_b.mzXML	Sample	3	Oct	2018	23	b	23	32.77471	-117.26068	Mission_Beach	Mission_Beach
+SD_10_2018_24_a.mzXML	Sample	3	Oct	2018	24	a	24	32.76504	-117.26059	Mission_Beach	Mission_Beach
+SD_10_2018_24_b.mzXML	Sample	3	Oct	2018	24	b	24	32.76504	-117.26059	Mission_Beach	Mission_Beach
+SD_10_2018_25_a.mzXML	Sample	3	Oct	2018	25	a	25	32.75645	-117.26265	Mission_Bay	Mission_Jetty
+SD_10_2018_25_b.mzXML	Sample	3	Oct	2018	25	b	25	32.75645	-117.26265	Mission_Bay	Mission_Jetty
+SD_10_2018_26_a.mzXML	Sample	3	Oct	2018	26	a	26	32.75743	-117.25317	Mission_Bay	Mission_Bay_Canal
+SD_10_2018_26_b.mzXML	Sample	3	Oct	2018	26	b	26	32.75743	-117.25317	Mission_Bay	Mission_Bay_Canal
+SD_10_2018_27_a.mzXML	Sample	3	Oct	2018	27	a	27	32.75905	-117.24467	Mission_Bay	Mission_Bay_Canal
+SD_10_2018_27_b.mzXML	Sample	3	Oct	2018	27	b	27	32.75905	-117.24467	Mission_Bay	Mission_Bay_Canal
+SD_10_2018_28_a.mzXML	Sample	3	Oct	2018	28	a	28	32.76576	-117.24785	Mission_Bay	Mariners_Basin
+SD_10_2018_28_b.mzXML	Sample	3	Oct	2018	28	b	28	32.76576	-117.24785	Mission_Bay	Mariners_Basin
+SD_10_2018_29_a.mzXML	Sample	3	Oct	2018	29	a	29	32.7623	-117.24051	Mission_Bay	Quivira_Marina
+SD_10_2018_29_b.mzXML	Sample	3	Oct	2018	29	b	29	32.7623	-117.24051	Mission_Bay	Quivira_Marina
+SD_10_2018_2_a.mzXML	Sample	3	Oct	2018	2	a	2	32.92639	-117.26446	Torrey_Pines	Torrey_Pines
+SD_10_2018_2_b.mzXML	Sample	3	Oct	2018	2	b	2	32.92639	-117.26446	Torrey_Pines	Torrey_Pines
+SD_10_2018_30_a.mzXML	Sample	3	Oct	2018	30	a	30	32.76115	-117.2363	Mission_Bay	Quivira_Marina
+SD_10_2018_30_b.mzXML	Sample	3	Oct	2018	30	b	30	32.76115	-117.2363	Mission_Bay	Quivira_Marina
+SD_10_2018_3_a.mzXML	Sample	3	Oct	2018	3	a	3	32.91927	-117.26452	Torrey_Pines	Torrey_Pines
+SD_10_2018_3_b.mzXML	Sample	3	Oct	2018	3	b	3	32.91927	-117.26452	Torrey_Pines	Torrey_Pines
+SD_10_2018_4_a.mzXML	Sample	3	Oct	2018	4	a	4	32.91016	-117.2622	Torrey_Pines	Torrey_Pines
+SD_10_2018_4_b.mzXML	Sample	3	Oct	2018	4	b	4	32.91016	-117.2622	Torrey_Pines	Torrey_Pines
+SD_10_2018_5_a.mzXML	Sample	3	Oct	2018	5	a	5	32.90106	-117.25929	Torrey_Pines	Torrey_Pines
+SD_10_2018_5_b.mzXML	Sample	3	Oct	2018	5	b	5	32.90106	-117.25929	Torrey_Pines	Torrey_Pines
+SD_10_2018_6_a.mzXML	Sample	3	Oct	2018	6	a	6	32.89303	-117.25866	Torrey_Pines	Torrey_Pines
+SD_10_2018_6_b.mzXML	Sample	3	Oct	2018	6	b	6	32.89303	-117.25866	Torrey_Pines	Torrey_Pines
+SD_10_2018_7_a.mzXML	Sample	3	Oct	2018	7	a	7	32.88456	-117.25879	Torrey_Pines	Blacks_North_Peak
+SD_10_2018_7_b.mzXML	Sample	3	Oct	2018	7	b	7	32.88456	-117.25879	Torrey_Pines	Blacks_North_Peak
+SD_10_2018_8_a.mzXML	Sample	3	Oct	2018	8	a	8	32.87627	-117.2557	Torrey_Pines	Blacks_South_Peaks
+SD_10_2018_8_b.mzXML	Sample	3	Oct	2018	8	b	8	32.87627	-117.2557	Torrey_Pines	Blacks_South_Peaks
+SD_10_2018_9_a.mzXML	Sample	3	Oct	2018	9	a	9	32.86989	-117.25836	SIO_La_Jolla_Shores	SIO_North_Pier
+SD_10_2018_9_b.mzXML	Sample	3	Oct	2018	9	b	9	32.86989	-117.25836	SIO_La_Jolla_Shores	SIO_North_Pier
+SD_10_2018_PPL_Blank_1.mzXML	Blank	3	Oct	2018	0	a	0	32.867166	-117.257812	Blank	Blank
+SD_10_2018_PPL_Blank_2.mzXML	Blank	3	Oct	2018	0	b	0	32.867166	-117.257812	Blank	Blank
+SD_12-2017_10_a.mzXML	Sample	1	Dec	2017	10	a	10	32.86261	-117.26042	SIO_La_Jolla_Shores	SIO_South_Pier
+SD_12-2017_10_b.mzXML	Sample	1	Dec	2017	10	b	10	32.86261	-117.26042	SIO_La_Jolla_Shores	SIO_South_Pier
+SD_12-2017_11_a.mzXML	Sample	1	Dec	2017	11	a	11	32.85601	-117.26253	SIO_La_Jolla_Shores	La_Jolla_Shores
+SD_12-2017_11_b.mzXML	Sample	1	Dec	2017	11	b	11	32.85601	-117.26253	SIO_La_Jolla_Shores	La_Jolla_Shores
+SD_12-2017_12_a.mzXML	Sample	1	Dec	2017	12	a	12	32.85161	-117.26965	La_Jolla_Cove	Cove
+SD_12-2017_12_b.mzXML	Sample	1	Dec	2017	12	b	12	32.85161	-117.26965	La_Jolla_Cove	Cove
+SD_12-2017_13_a.mzXML	Sample	1	Dec	2017	13	a	13	32.85197	-117.27703	La_Jolla_Cove	Cove
+SD_12-2017_13_b.mzXML	Sample	1	Dec	2017	13	b	13	32.85197	-117.27703	La_Jolla_Cove	Cove
+SD_12-2017_14_a.mzXML	Sample	1	Dec	2017	14	a	14	32.84638	-117.28355	La_Jolla Reefs	Hospitals
+SD_12-2017_14_b.mzXML	Sample	1	Dec	2017	14	b	14	32.84638	-117.28355	La_Jolla Reefs	Hospitals
+SD_12-2017_15_a.mzXML	Sample	1	Dec	2017	15	a	15	32.84007	-117.28664	La_Jolla Reefs	Horseshoe
+SD_12-2017_15_b.mzXML	Sample	1	Dec	2017	15	b	15	32.84007	-117.28664	La_Jolla Reefs	Horseshoe
+SD_12-2017_16_a.mzXML	Sample	1	Dec	2017	16	a	16	32.83142	-117.2872	La_Jolla Reefs	Little_Point
+SD_12-2017_16_b.mzXML	Sample	1	Dec	2017	16	b	16	32.83142	-117.2872	La_Jolla Reefs	Little_Point
+SD_12-2017_17_a.mzXML	Sample	1	Dec	2017	17	a	17	32.82428	-117.286	La_Jolla Reefs	Big_Rock
+SD_12-2017_17_b.mzXML	Sample	1	Dec	2017	17	b	17	32.82428	-117.286	La_Jolla Reefs	Big_Rock
+SD_12-2017_18_a.mzXML	Sample	1	Dec	2017	18	a	18	32.81743	-117.28343	La_Jolla Reefs	South_Bird
+SD_12-2017_18_b.mzXML	Sample	1	Dec	2017	18	b	18	32.81743	-117.28343	La_Jolla Reefs	South_Bird
+SD_12-2017_19_a.mzXML	Sample	1	Dec	2017	19	a	19	32.81039	-117.27733	La_Jolla Reefs	North_Bird
+SD_12-2017_19_b.mzXML	Sample	1	Dec	2017	19	b	19	32.81039	-117.27733	La_Jolla Reefs	North_Bird
+SD_12-2017_1_a.mzXML	Sample	1	Dec	2017	1	a	1	32.93365	-117.26483	Torrey_Pines	Lagoon_Outlet
+SD_12-2017_1_b.mzXML	Sample	1	Dec	2017	1	b	1	32.93365	-117.26483	Torrey_Pines	Lagoon_Outlet
+SD_12-2017_20_a.mzXML	Sample	1	Dec	2017	20	a	20	32.80386	-117.27325	Pacific_Beach	PB_Point
+SD_12-2017_20_b.mzXML	Sample	1	Dec	2017	20	b	20	32.80386	-117.27325	Pacific_Beach	PB_Point
+SD_12-2017_21_a.mzXML	Sample	1	Dec	2017	21	a	21	32.7955	-117.26497	Pacific_Beach	PB_Pier
+SD_12-2017_21_b.mzXML	Sample	1	Dec	2017	21	b	21	32.7955	-117.26497	Pacific_Beach	PB_Pier
+SD_12-2017_22_a.mzXML	Sample	1	Dec	2017	22	a	22	32.78525	-117.26188	Mission_Beach	Mission_Beach
+SD_12-2017_22_b.mzXML	Sample	1	Dec	2017	22	b	22	32.78525	-117.26188	Mission_Beach	Mission_Beach
+SD_12-2017_23_a.mzXML	Sample	1	Dec	2017	23	a	23	32.77471	-117.26068	Mission_Beach	Mission_Beach
+SD_12-2017_23_b.mzXML	Sample	1	Dec	2017	23	b	23	32.77471	-117.26068	Mission_Beach	Mission_Beach
+SD_12-2017_24_a.mzXML	Sample	1	Dec	2017	24	a	24	32.76504	-117.26059	Mission_Beach	Mission_Beach
+SD_12-2017_24_b.mzXML	Sample	1	Dec	2017	24	b	24	32.76504	-117.26059	Mission_Beach	Mission_Beach
+SD_12-2017_25_a.mzXML	Sample	1	Dec	2017	25	a	25	32.75645	-117.26265	Mission_Bay	Mission_Jetty
+SD_12-2017_25_b.mzXML	Sample	1	Dec	2017	25	b	25	32.75645	-117.26265	Mission_Bay	Mission_Jetty
+SD_12-2017_26_a.mzXML	Sample	1	Dec	2017	26	a	26	32.75743	-117.25317	Mission_Bay	Mission_Bay_Canal
+SD_12-2017_26_b.mzXML	Sample	1	Dec	2017	26	b	26	32.75743	-117.25317	Mission_Bay	Mission_Bay_Canal
+SD_12-2017_27_a.mzXML	Sample	1	Dec	2017	27	a	27	32.75905	-117.24467	Mission_Bay	Mission_Bay_Canal
+SD_12-2017_27_b.mzXML	Sample	1	Dec	2017	27	b	27	32.75905	-117.24467	Mission_Bay	Mission_Bay_Canal
+SD_12-2017_28_a.mzXML	Sample	1	Dec	2017	28	a	28	32.76576	-117.24785	Mission_Bay	Mariners_Basin
+SD_12-2017_28_b.mzXML	Sample	1	Dec	2017	28	b	28	32.76576	-117.24785	Mission_Bay	Mariners_Basin
+SD_12-2017_29_a.mzXML	Sample	1	Dec	2017	29	a	29	32.7623	-117.24051	Mission_Bay	Quivira_Marina
+SD_12-2017_29_b.mzXML	Sample	1	Dec	2017	29	b	29	32.7623	-117.24051	Mission_Bay	Quivira_Marina
+SD_12-2017_2_a.mzXML	Sample	1	Dec	2017	2	a	2	32.92639	-117.26446	Torrey_Pines	Torrey_Pines
+SD_12-2017_2_b.mzXML	Sample	1	Dec	2017	2	b	2	32.92639	-117.26446	Torrey_Pines	Torrey_Pines
+SD_12-2017_30_a.mzXML	Sample	1	Dec	2017	30	a	30	32.76115	-117.2363	Mission_Bay	Quivira_Marina
+SD_12-2017_30_b.mzXML	Sample	1	Dec	2017	30	b	30	32.76115	-117.2363	Mission_Bay	Quivira_Marina
+SD_12-2017_3_a.mzXML	Sample	1	Dec	2017	3	a	3	32.91927	-117.26452	Torrey_Pines	Torrey_Pines
+SD_12-2017_3_b.mzXML	Sample	1	Dec	2017	3	b	3	32.91927	-117.26452	Torrey_Pines	Torrey_Pines
+SD_12-2017_4_a.mzXML	Sample	1	Dec	2017	4	a	4	32.91016	-117.2622	Torrey_Pines	Torrey_Pines
+SD_12-2017_4_b.mzXML	Sample	1	Dec	2017	4	b	4	32.91016	-117.2622	Torrey_Pines	Torrey_Pines
+SD_12-2017_5_a.mzXML	Sample	1	Dec	2017	5	a	5	32.90106	-117.25929	Torrey_Pines	Torrey_Pines
+SD_12-2017_5_b.mzXML	Sample	1	Dec	2017	5	b	5	32.90106	-117.25929	Torrey_Pines	Torrey_Pines
+SD_12-2017_6_a.mzXML	Sample	1	Dec	2017	6	a	6	32.89303	-117.25866	Torrey_Pines	Torrey_Pines
+SD_12-2017_6_b.mzXML	Sample	1	Dec	2017	6	b	6	32.89303	-117.25866	Torrey_Pines	Torrey_Pines
+SD_12-2017_7_a.mzXML	Sample	1	Dec	2017	7	a	7	32.88456	-117.25879	Torrey_Pines	Blacks_North_Peak
+SD_12-2017_7_b.mzXML	Sample	1	Dec	2017	7	b	7	32.88456	-117.25879	Torrey_Pines	Blacks_North_Peak
+SD_12-2017_8_a.mzXML	Sample	1	Dec	2017	8	a	8	32.87627	-117.2557	Torrey_Pines	Blacks_South_Peaks
+SD_12-2017_8_b.mzXML	Sample	1	Dec	2017	8	b	8	32.87627	-117.2557	Torrey_Pines	Blacks_South_Peaks
+SD_12-2017_9_a.mzXML	Sample	1	Dec	2017	9	a	9	32.86989	-117.25836	SIO_La_Jolla_Shores	SIO_North_Pier
+SD_12-2017_9_b.mzXML	Sample	1	Dec	2017	9	b	9	32.86989	-117.25836	SIO_La_Jolla_Shores	SIO_North_Pier
+SD_12-2017_PPL_Bl_1.mzXML	Blank	1	Dec	2017	0	a	0	32.867166	-117.257812	Blank	Blank
+SD_12-2017_PPL_Bl_2.mzXML	Blank	1	Dec	2017	0	b	0	32.867166	-117.257812	Blank	Blank
+SD_01-2018_PPL_Bl_1.mzXML	Blank	2	Jan	2018	0	a	0	32.867166	-117.257812	Blank	Blank
+SD_01-2018_PPL_Bl_2.mzXML	Blank	2	Jan	2018	0	b	0	32.867166	-117.257812	Blank	Blank
+SD_01-2018_10_a.mzXML	Sample	2	Jan	2018	10	a	10	32.86261	-117.26042	SIO_La_Jolla_Shores	SIO_South_Pier
+SD_01-2018_10_b.mzXML	Sample	2	Jan	2018	10	b	10	32.86261	-117.26042	SIO_La_Jolla_Shores	SIO_South_Pier
+SD_01-2018_11_a.mzXML	Sample	2	Jan	2018	11	a	11	32.85601	-117.26253	SIO_La_Jolla_Shores	La_Jolla_Shores
+SD_01-2018_11_b.mzXML	Sample	2	Jan	2018	11	b	11	32.85601	-117.26253	SIO_La_Jolla_Shores	La_Jolla_Shores
+SD_01-2018_12_a.mzXML	Sample	2	Jan	2018	12	a	12	32.85161	-117.26965	La_Jolla_Cove	Cove
+SD_01-2018_12_b.mzXML	Sample	2	Jan	2018	12	b	12	32.85161	-117.26965	La_Jolla_Cove	Cove
+SD_01-2018_13_a.mzXML	Sample	2	Jan	2018	13	a	13	32.85197	-117.27703	La_Jolla_Cove	Cove
+SD_01-2018_13_b.mzXML	Sample	2	Jan	2018	13	b	13	32.85197	-117.27703	La_Jolla_Cove	Cove
+SD_01-2018_14_a.mzXML	Sample	2	Jan	2018	14	a	14	32.84638	-117.28355	La_Jolla Reefs	Hospitals
+SD_01-2018_14_b.mzXML	Sample	2	Jan	2018	14	b	14	32.84638	-117.28355	La_Jolla Reefs	Hospitals
+SD_01-2018_15_a.mzXML	Sample	2	Jan	2018	15	a	15	32.84007	-117.28664	La_Jolla Reefs	Horseshoe
+SD_01-2018_15_b.mzXML	Sample	2	Jan	2018	15	b	15	32.84007	-117.28664	La_Jolla Reefs	Horseshoe
+SD_01-2018_16_a.mzXML	Sample	2	Jan	2018	16	a	16	32.83142	-117.2872	La_Jolla Reefs	Little_Point
+SD_01-2018_16_b.mzXML	Sample	2	Jan	2018	16	b	16	32.83142	-117.2872	La_Jolla Reefs	Little_Point
+SD_01-2018_17_a.mzXML	Sample	2	Jan	2018	17	a	17	32.82428	-117.286	La_Jolla Reefs	Big_Rock
+SD_01-2018_17_b.mzXML	Sample	2	Jan	2018	17	b	17	32.82428	-117.286	La_Jolla Reefs	Big_Rock
+SD_01-2018_18_a.mzXML	Sample	2	Jan	2018	18	a	18	32.81743	-117.28343	La_Jolla Reefs	South_Bird
+SD_01-2018_18_b.mzXML	Sample	2	Jan	2018	18	b	18	32.81743	-117.28343	La_Jolla Reefs	South_Bird
+SD_01-2018_19_a.mzXML	Sample	2	Jan	2018	19	a	19	32.81039	-117.27733	La_Jolla Reefs	North_Bird
+SD_01-2018_19_b.mzXML	Sample	2	Jan	2018	19	b	19	32.81039	-117.27733	La_Jolla Reefs	North_Bird
+SD_01-2018_1_a.mzXML	Sample	2	Jan	2018	1	a	1	32.93365	-117.26483	Torrey_Pines	Lagoon_Outlet
+SD_01-2018_1_b.mzXML	Sample	2	Jan	2018	1	b	1	32.93365	-117.26483	Torrey_Pines	Lagoon_Outlet
+SD_01-2018_20_a.mzXML	Sample	2	Jan	2018	20	a	20	32.80386	-117.27325	Pacific_Beach	PB_Point
+SD_01-2018_20_b.mzXML	Sample	2	Jan	2018	20	b	20	32.80386	-117.27325	Pacific_Beach	PB_Point
+SD_01-2018_21_a.mzXML	Sample	2	Jan	2018	21	a	21	32.7955	-117.26497	Pacific_Beach	PB_Pier
+SD_01-2018_21_b.mzXML	Sample	2	Jan	2018	21	b	21	32.7955	-117.26497	Pacific_Beach	PB_Pier
+SD_01-2018_22_a.mzXML	Sample	2	Jan	2018	22	a	22	32.78525	-117.26188	Mission_Beach	Mission_Beach
+SD_01-2018_22_b.mzXML	Sample	2	Jan	2018	22	b	22	32.78525	-117.26188	Mission_Beach	Mission_Beach
+SD_01-2018_23_a.mzXML	Sample	2	Jan	2018	23	a	23	32.77471	-117.26068	Mission_Beach	Mission_Beach
+SD_01-2018_23_b.mzXML	Sample	2	Jan	2018	23	b	23	32.77471	-117.26068	Mission_Beach	Mission_Beach
+SD_01-2018_24_a.mzXML	Sample	2	Jan	2018	24	a	24	32.76504	-117.26059	Mission_Beach	Mission_Beach
+SD_01-2018_24_b.mzXML	Sample	2	Jan	2018	24	b	24	32.76504	-117.26059	Mission_Beach	Mission_Beach
+SD_01-2018_25_a.mzXML	Sample	2	Jan	2018	25	a	25	32.75645	-117.26265	Mission_Bay	Mission_Jetty
+SD_01-2018_25_b_180117091040.mzXML	Sample	2	Jan	2018	25	b	25	32.75645	-117.26265	Mission_Bay	Mission_Jetty
+SD_01-2018_26_a.mzXML	Sample	2	Jan	2018	26	a	26	32.75743	-117.25317	Mission_Bay	Mission_Bay_Canal
+SD_01-2018_26_b.mzXML	Sample	2	Jan	2018	26	b	26	32.75743	-117.25317	Mission_Bay	Mission_Bay_Canal
+SD_01-2018_27_a.mzXML	Sample	2	Jan	2018	27	a	27	32.75905	-117.24467	Mission_Bay	Mission_Bay_Canal
+SD_01-2018_27_b.mzXML	Sample	2	Jan	2018	27	b	27	32.75905	-117.24467	Mission_Bay	Mission_Bay_Canal
+SD_01-2018_28_a.mzXML	Sample	2	Jan	2018	28	a	28	32.76576	-117.24785	Mission_Bay	Mariners_Basin
+SD_01-2018_28_b.mzXML	Sample	2	Jan	2018	28	b	28	32.76576	-117.24785	Mission_Bay	Mariners_Basin
+SD_01-2018_29_a.mzXML	Sample	2	Jan	2018	29	a	29	32.7623	-117.24051	Mission_Bay	Quivira_Marina
+SD_01-2018_29_b.mzXML	Sample	2	Jan	2018	29	b	29	32.7623	-117.24051	Mission_Bay	Quivira_Marina
+SD_01-2018_2_a.mzXML	Sample	2	Jan	2018	2	a	2	32.92639	-117.26446	Torrey_Pines	Torrey_Pines
+SD_01-2018_2_b.mzXML	Sample	2	Jan	2018	2	b	2	32.92639	-117.26446	Torrey_Pines	Torrey_Pines
+SD_01-2018_30_a.mzXML	Sample	2	Jan	2018	30	a	30	32.76115	-117.2363	Mission_Bay	Quivira_Marina
+SD_01-2018_30_b.mzXML	Sample	2	Jan	2018	30	b	30	32.76115	-117.2363	Mission_Bay	Quivira_Marina
+SD_01-2018_3_a.mzXML	Sample	2	Jan	2018	3	a	3	32.91927	-117.26452	Torrey_Pines	Torrey_Pines
+SD_01-2018_3_b.mzXML	Sample	2	Jan	2018	3	b	3	32.91927	-117.26452	Torrey_Pines	Torrey_Pines
+SD_01-2018_4_a.mzXML	Sample	2	Jan	2018	4	a	4	32.91016	-117.2622	Torrey_Pines	Torrey_Pines
+SD_01-2018_4_b.mzXML	Sample	2	Jan	2018	4	b	4	32.91016	-117.2622	Torrey_Pines	Torrey_Pines
+SD_01-2018_5_a.mzXML	Sample	2	Jan	2018	5	a	5	32.90106	-117.25929	Torrey_Pines	Torrey_Pines
+SD_01-2018_5_b.mzXML	Sample	2	Jan	2018	5	b	5	32.90106	-117.25929	Torrey_Pines	Torrey_Pines
+SD_01-2018_6_a.mzXML	Sample	2	Jan	2018	6	a	6	32.89303	-117.25866	Torrey_Pines	Torrey_Pines
+SD_01-2018_6_b.mzXML	Sample	2	Jan	2018	6	b	6	32.89303	-117.25866	Torrey_Pines	Torrey_Pines
+SD_01-2018_7_a.mzXML	Sample	2	Jan	2018	7	a	7	32.88456	-117.25879	Torrey_Pines	Blacks_North_Peak
+SD_01-2018_7_b.mzXML	Sample	2	Jan	2018	7	b	7	32.88456	-117.25879	Torrey_Pines	Blacks_North_Peak
+SD_01-2018_8_a.mzXML	Sample	2	Jan	2018	8	a	8	32.87627	-117.2557	Torrey_Pines	Blacks_South_Peaks
+SD_01-2018_8_b.mzXML	Sample	2	Jan	2018	8	b	8	32.87627	-117.2557	Torrey_Pines	Blacks_South_Peaks
+SD_01-2018_9_a.mzXML	Sample	2	Jan	2018	9	a	9	32.86989	-117.25836	SIO_La_Jolla_Shores	SIO_North_Pier
+SD_01-2018_9_b.mzXML	Sample	2	Jan	2018	9	b	9	32.86989	-117.25836	SIO_La_Jolla_Shores	SIO_North_Pier
