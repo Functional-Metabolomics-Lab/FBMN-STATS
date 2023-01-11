@@ -22,10 +22,9 @@ Since Colab does not come pre-installed with R packages (or libraries), when run
 ### 2. Setting a working directory:
 ![Google-Colab Files Upload](https://github.com/abzer005/Images-for-Jupyter-Notebooks/blob/main/StepsAll.png?raw=true)
 - As Colab is cloud-based, it is not possible to access the files from your local computer like in Jupyter Notebook. So we can directly upload the necessary files into the Colab using the <b>'Files icon'</b> on the left corner of your Colab space as shown in the image. 
-- Then we can create a new folder called 'My_TestData' in the Colab space and set it as working directory. 
+- In order to keep our data organised, we can create a new folder called 'My_TestData' under the <b> content folder <b/> in the Colab space by right clicking on it. We can set this new folder as our working directory
 ```
-dir.create("/content/My_TestData", showWarnings = TRUE, recursive = FALSE, mode = "0777") #creating a folder
 setwd("/content/My_TestData") 
 ```
-Following the steps in the image, you can check in your Colab to see if the folder has been created. Once you see it, simply upload the files from your local PC to the folder 'My_TestData' and then continue running the rest of the script.
+ As shown in the image, you can check in your Colab to see if the folder has been created. Once you see it, simply upload the files from your local PC to the folder  'My_TestData' and then continue running the rest of the script.
 <b>All the files uploaded to Google Colab would generally disappear after 12 hours. Similarly, all the outputs would be saved only in the Colab, so we need to download them into our local system at the end of our session.</b>
