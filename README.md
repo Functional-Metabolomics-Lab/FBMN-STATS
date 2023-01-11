@@ -22,7 +22,7 @@ Since Colab does not come pre-installed with R packages (or libraries), when run
 
 ### 2. Setting a working directory and loading input files:
 ![Google-Colab Files Upload](https://github.com/abzer005/Images-for-Jupyter-Notebooks/blob/main/Image_Google_Colab.png?raw=true)
-- As Colab is cloud-based, it is not possible to access the files from your local computer like in Jupyter Notebook. So we can directly upload the necessary files into the Colab using the <b>'Files icon'</b> on the left corner of your Colab space as shown in the image (a). 
+- Unlike Jupyter Notebook, it is not possible to access the files from your local computer in a Google Colab space as it is cloud-based. So we can directly upload the necessary files into the Colab using the <b>'Files icon'</b> on the left corner of your Colab space as shown in the image (a). 
 - In order to keep our data organised, we can create a new folder called 'My_TestData' in the Colab space by right clicking on the white space as shown in image (b). We can set this new folder as our working directory.
 ```
 setwd("/My_TestData") 
