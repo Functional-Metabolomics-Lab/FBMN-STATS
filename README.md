@@ -12,7 +12,7 @@ The result files of the notebook can be found in the Google Drive:
 ## Notebooks:
 This Notebook can be run also on Google Colab, a cloud environment for running Jupyter Notebooks and scripts. To do so, one need to have google account. The Jupyter Notebook can be directly executed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/Statistical-analysis-of-non-targeted-LC-MSMS-data/blob/main) <br>
 
-In Colab, before starting to run this notebook with your own data, save a copy of this notebook in your own Google Drive by clicking on File --> Save a copy in Drive. You can give whatever meaningful name to your notebook. You can find this newly created file under the folder 'Colab Notebooks' in your Drive. 
+In Colab, before starting to run this notebook with your own data, save a copy of this notebook in your own Google Drive by clicking on <b> File &rarr; Save a copy in Drive. </b> You can give whatever meaningful name to your notebook. You can find this newly created file under the folder  <b> 'Colab Notebooks'</b> in your Drive. 
 
 Since we are running the notebook via Colab environment which runs completely in cloud, we need to install the packages every time we run the notebook.This might take some time to install all these packages. 
 
