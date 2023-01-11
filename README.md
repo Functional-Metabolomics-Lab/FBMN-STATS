@@ -10,21 +10,32 @@ The result files of the notebook can be found in the Google Drive:
 
 
 ## Google Colab:
-This Notebook can be also executed using Google Colab, a cloud environment for running Jupyter Notebooks and scripts. It is commonly used with Python and comes pre-installed with all essential Python packages. However, we can also run Colab with R. Basic requirement for using Colab is to have a google account. No extra installation in your computer is needed as such for Jupyter Notebook. To execute our notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/Statistical-analysis-of-non-targeted-LC-MSMS-data/blob/main) <br>
+This Notebook can be also executed using Google Colab, a cloud environment for running Jupyter Notebooks. It is commonly used with Python and comes pre-installed with all essential Python packages. However, we can also run Colab with R Notebooks. Basic requirement for using Colab is to have a google account. No extra installation in your computer is needed as such for Jupyter Notebook. To execute our notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/Statistical-analysis-of-non-targeted-LC-MSMS-data/blob/main) <br>
 
 In Colab, before starting to run this notebook with your own data, save a copy of this notebook in your own Google Drive by clicking on <b> File &rarr; Save a copy in Drive. </b> You can give whatever meaningful name to your notebook. You can find this newly created file under the folder  <b> 'Colab Notebooks'</b> in your Drive. 
 
+Although Colab is a Jupyter Notebook environment, Colab is different from Jpyter Notebook in loading files and writing the output files.
 ## For first time Colab users, some useful information to note:
 
 ### 1. Package Installation:
 Since Colab does not come pre-installed with R packages (or libraries), when running our R Notebook in Colab, we need to install the packages every time we run the notebook and the installation might take some time. However, direct Jupyter Notebook users need to install it only once as it is installed locally.
 
-### 2. Setting a working directory:
+### 2. Setting a working directory and loading input files:
 ![Google-Colab Files Upload](https://github.com/abzer005/Images-for-Jupyter-Notebooks/blob/main/Image_Google_Colab.png?raw=true)
-- As Colab is cloud-based, it is not possible to access the files from your local computer like in Jupyter Notebook. So we can directly upload the necessary files into the Colab using the <b>'Files icon'</b> on the left corner of your Colab space as shown in the image. 
-- In order to keep our data organised, we can create a new folder called 'My_TestData' under the <b> content folder <b/> in the Colab space by right clicking on it. We can set this new folder as our working directory
+- As Colab is cloud-based, it is not possible to access the files from your local computer like in Jupyter Notebook. So we can directly upload the necessary files into the Colab using the <b>'Files icon'</b> on the left corner of your Colab space as shown in the image (a). 
+- In order to keep our data organised, we can create a new folder called 'My_TestData' in the Colab space by right clicking on the white space as shown in image (b). We can set this new folder as our working directory.
 ```
-setwd("/content/My_TestData") 
+setwd("/My_TestData") 
 ```
- As shown in the image, you can check in your Colab to see if the folder has been created. Once you see it, simply upload the files from your local PC to the folder  'My_TestData' and then continue running the rest of the script.
-<b>All the files uploaded to Google Colab would generally disappear after 12 hours. Similarly, all the outputs would be saved only in the Colab, so we need to download them into our local system at the end of our session.</b>
+As shown in the image (c), you can then simply upload the files from your local PC to the new folder 'My_TestData' and then continue running the rest of the script.
+ 
+ ### 3. Getting output files from Google Colab:
+ 
+ All the output files will be stored under the working directory. You need to download all the result files from the directory at the end of your session as they are only saved in the Colud and not in your local PC like Jupyter Notebook. You can download the individual files manually by right clicking on each file and downloading it. Else, we can zip the folder and maually download only the zip file.
+
+``` #To zip the folder:
+utils::zip(zipfile = 'TestData_Results', files = "/My_TestData/")
+```
+
+### 4. Caveats of Google Colab:
+Although Colab is easier to use and is all Cloud-based, the main problem with Colab environment is when you leave the Colab notebook idle for 90 mins or used it for 12 hours, the runtime will automatically disconnect. This means you will lose all your variables, installed packages, and files. Hence, you need to rerun the entire notebook. Another limitation is disk space of 77 GB for the user. Please be aware of this while working with larger datasets and running longer notebooks.
