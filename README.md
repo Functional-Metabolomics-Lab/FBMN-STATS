@@ -37,5 +37,5 @@ As shown in the image (c), you can then simply upload the files from your local 
 utils::zip(zipfile = 'TestData_Results', files = "/My_TestData/")
 ```
 
-### 4. Caveats of Google Colab:
-Although Colab is easier to use and is all Cloud-based, the main problem with Colab environment is when you leave the Colab notebook idle for 90 mins or used it for 12 hours, the runtime will automatically disconnect. This means you will lose all your variables, installed packages, and files. Hence, you need to rerun the entire notebook. Another limitation is disk space of 77 GB for the user. Please be aware of this while working with larger datasets and running longer notebooks.
+### 4. Limitations of Google Colab:
+Although Colab is easier to use and is all Cloud-based, the main problem with the Colab environment is when you leave the Colab notebook idle for 90 mins or continuously used it for 12 hours, the runtime will automatically disconnect. This means you will lose all your variables, installed packages, and files. Hence, you need to rerun the entire notebook. Another limitation is disk space of 77 GB for the user. Please be aware of this while working with larger datasets and running longer notebooks.
