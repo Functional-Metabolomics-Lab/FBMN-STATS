@@ -21,7 +21,7 @@ Although Colab is a Jupyter Notebook environment, Colab is different from Jpyter
 Since Colab does not come pre-installed with R packages (or libraries), when running our R Notebook in Colab, we need to install the packages every time we run the notebook and the installation might take some time. However, direct Jupyter Notebook users need to install it only once as it is installed locally.
 
 ### 2. Setting a working directory and loading input files:
-![Google-Colab Files Upload](https://github.com/abzer005/Images-for-Jupyter-Notebooks/blob/main/Image_Google_Colab.png?raw=true)
+![Google-Colab Files Upload](https://github.com//Functional-Metabolomics-Lab/Images-for-Jupyter-Notebooks/blob/main/Image_Google_Colab.png?raw=true)
 - Unlike Jupyter Notebook, it is not possible to access the files from your local computer in a Google Colab space as it is cloud-based. So we can directly upload the necessary files into the Colab using the <b>'Files icon'</b> on the left corner of your Colab space as shown in the image (a). 
 - In order to keep our data organised, we can create a new folder called 'My_TestData' in the Colab space by right clicking on the white space as shown in image (b). We can set this new folder as our working directory.
 ```
