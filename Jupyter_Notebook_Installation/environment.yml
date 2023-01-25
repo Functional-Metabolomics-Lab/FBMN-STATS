@@ -1,13 +1,14 @@
-name: test-env
+name: R-Stats-environment
 channels:
  - conda-forge
  - bioconda
 dependencies:
   - jupyter
   - jupyterlab
-  - r-base
+  - r-base=4.2
   # For data-cleanup and multivariate stats:
   - r-tidyverse
+  - r-data.table
   - r-irkernel
   - r-vegan
   - r-IRdisplay
@@ -19,8 +20,16 @@ dependencies:
   - r-ggsci
   - r-matrixStats
   - r-cowplot
+  - r-FSA
   # For clustering & heatmaps
   - r-BiocManager
   - bioconductor-ComplexHeatmap
   - r-dendextend
   - r-NbClust
+
+  # For supervised classification using xgboost
+  - r-xgboost
+  - r-caret
+  - r-pROC
+  - r-doParallel
+
