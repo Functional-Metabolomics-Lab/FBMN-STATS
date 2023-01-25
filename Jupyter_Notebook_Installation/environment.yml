@@ -1,0 +1,26 @@
+name: test-env
+channels:
+ - conda-forge
+ - bioconda
+dependencies:
+  - jupyter
+  - jupyterlab
+  - r-base
+  # For data-cleanup and multivariate stats:
+  - r-tidyverse
+  - r-irkernel
+  - r-vegan
+  - r-IRdisplay
+  - r-svglite
+  - r-factoextra
+  - r-ggrepel
+  - r-KODAMA
+  # For univariate stats:
+  - r-ggsci
+  - r-matrixStats
+  - r-cowplot
+  # For clustering & heatmaps
+  - r-BiocManager
+  - bioconductor-ComplexHeatmap
+  - r-dendextend
+  - r-NbClust
