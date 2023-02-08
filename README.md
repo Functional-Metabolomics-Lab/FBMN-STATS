@@ -1,5 +1,5 @@
 # Statistical-analysis-of-non-targeted-LC-MS-MS-data:
-This repository contains the test data and the notebooks for the paper 'A hitchhiker's guide to statistical analysis of non-targeted LC-MS/MS data'
+This repository contains the test data and the Jupyter notebooks for the paper 'A hitchhiker's guide to statistical analysis of non-targeted LC-MS/MS data'. Using the notebooks provided here, one can perform preliminary data cleanup, some univariate and multivariate statistical analyses on their non-targeted LC-MS/MS data.
 
 The result files of the notebook can be found in the Google Drive:
 - [Google Drive Link for the files](https://drive.google.com/drive/folders/1qHAdvDGr9Kre0SK3AMc1Dzfu6XeFE48A?usp=sharing) <br>
