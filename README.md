@@ -22,7 +22,7 @@ Although Colab is a Jupyter Notebook environment, Colab is different from Jupyte
 ## For first time Colab users, some useful information to note:
 
 ### 1. Package Installation:
-Since Colab does not come pre-installed with R packages (or libraries), when running our R Notebook in Colab, we need to install the packages every time we run the notebook and the installation might take some time. However, direct Jupyter Notebook users need to install it only once as it is installed locally.
+Since Colab does not come pre-installed with R packages (or libraries) when running our R Notebook in Colab, we need to install the packages every time we run the notebook and the installation might take some time. However, direct Jupyter Notebook users need to install it only once as it is installed locally.
 
 ### 2. Setting a working directory and loading input files:
 ![Google-Colab Files Upload](https://github.com//abzer005/Images-for-Jupyter-Notebooks/blob/main/Image_Google_Colab.png?raw=true)
