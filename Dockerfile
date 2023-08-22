@@ -7,7 +7,7 @@ WORKDIR /app
 # Copy the requirements.txt file into the container
 COPY /QIIME2/requirements.txt /app/requirements.txt
 
-COPY src /app/src
+COPY /QIIME2/QIIME2
 
 # Download the Qiime2 environment YAML file
 RUN wget https://data.qiime2.org/distro/core/qiime2-2023.2-py38-linux-conda.yml -O qiime2_env.yml
