@@ -1501,6 +1501,7 @@
 <circle cx='455.58' cy='426.60' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='455.54' cy='426.67' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='455.52' cy='426.69' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
+<circle cx='455.40' cy='426.87' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='455.37' cy='426.91' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='455.34' cy='426.96' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='455.33' cy='426.97' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
@@ -2490,7 +2491,6 @@
 <circle cx='421.62' cy='466.66' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='421.60' cy='466.68' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='421.56' cy='466.72' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
-<circle cx='421.53' cy='466.74' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='421.46' cy='466.81' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='421.42' cy='466.84' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
 <circle cx='421.41' cy='466.85' r='1.95' style='stroke-width: 0.71; stroke: #DF8F44; fill: #DF8F44;' />
@@ -9121,12 +9121,12 @@
 <circle cx='68.14' cy='520.00' r='1.95' style='stroke-width: 0.71; stroke: #374E55; fill: #374E55;' />
 <circle cx='66.94' cy='520.00' r='1.95' style='stroke-width: 0.71; stroke: #374E55; fill: #374E55;' />
 <circle cx='59.43' cy='520.00' r='1.95' style='stroke-width: 0.71; stroke: #374E55; fill: #374E55;' />
-<text x='508.83' y='34.06' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X59188_312.231_7.625_NA</text>
-<text x='504.76' y='54.83' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X33200_260.196_4.886_NA</text>
-<text x='492.05' y='123.91' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>X57080_314.247_7.36_NA</text>
-<text x='539.39' y='141.27' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>X21870_246.18_3.969_NA</text>
+<text x='508.83' y='34.05' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X59188_312.231_7.625_NA</text>
+<text x='504.76' y='54.82' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X33200_260.196_4.886_NA</text>
+<text x='492.05' y='123.93' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>X57080_314.247_7.36_NA</text>
+<text x='539.32' y='141.24' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>X21870_246.18_3.969_NA</text>
 <text x='536.22' y='164.42' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X80910_243.174_10.41_NA</text>
-<text x='536.14' y='186.17' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X55328_312.232_7.138_NA</text>
+<text x='536.14' y='186.18' text-anchor='middle' style='font-size: 11.38px;fill: #DF8F44; font-family: "Arial";' textLength='143.63px' lengthAdjust='spacingAndGlyphs'>X55328_312.232_7.138_NA</text>
 <rect x='33.14' y='5.48' width='578.50' height='539.02' style='stroke-width: 2.13;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw1NzYuMDA=)'>
