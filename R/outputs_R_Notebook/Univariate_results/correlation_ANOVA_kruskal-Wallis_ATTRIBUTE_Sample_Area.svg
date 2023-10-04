@@ -1519,6 +1519,7 @@
 <circle cx='120.43' cy='402.58' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='120.39' cy='396.75' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='120.37' cy='394.50' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='120.26' cy='354.17' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='120.23' cy='407.94' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='120.21' cy='404.94' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='120.20' cy='399.46' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
@@ -2508,7 +2509,6 @@
 <circle cx='95.25' cy='376.99' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='95.24' cy='343.35' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='95.22' cy='387.46' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='95.20' cy='354.17' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='95.16' cy='375.92' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='95.14' cy='391.13' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='95.13' cy='379.34' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
@@ -9139,12 +9139,12 @@
 <circle cx='53.24' cy='419.77' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='53.23' cy='429.01' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
 <circle cx='53.20' cy='423.80' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
-<text x='396.27' y='203.38' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X59188_312.231_7.625_NA</text>
-<text x='390.96' y='282.30' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X33200_260.196_4.886_NA</text>
-<text x='349.41' y='229.12' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='102.94px' lengthAdjust='spacingAndGlyphs'>X57080_314.247_7.36_NA</text>
-<text x='327.43' y='298.50' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='102.94px' lengthAdjust='spacingAndGlyphs'>X21870_246.18_3.969_NA</text>
-<text x='322.44' y='137.42' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X80910_243.174_10.41_NA</text>
-<text x='302.50' y='266.17' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X55328_312.232_7.138_NA</text>
+<text x='396.34' y='203.37' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X59188_312.231_7.625_NA</text>
+<text x='417.08' y='266.86' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X33200_260.196_4.886_NA</text>
+<text x='349.33' y='229.26' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='102.94px' lengthAdjust='spacingAndGlyphs'>X57080_314.247_7.36_NA</text>
+<text x='343.58' y='282.82' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='102.94px' lengthAdjust='spacingAndGlyphs'>X21870_246.18_3.969_NA</text>
+<text x='306.40' y='152.89' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X80910_243.174_10.41_NA</text>
+<text x='318.40' y='250.66' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='107.68px' lengthAdjust='spacingAndGlyphs'>X55328_312.232_7.138_NA</text>
 </g>
 <g clip-path='url(#cpMC4wMHw0ODAuMDB8MC4wMHw0ODAuMDA=)'>
 <text x='28.21' y='432.82' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
@@ -9166,7 +9166,7 @@
 <text x='361.69' y='459.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>30</text>
 <text x='464.62' y='459.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>40</text>
 <text x='253.83' y='472.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='87.22px' lengthAdjust='spacingAndGlyphs'>ANOVA F-statistic</text>
-<text transform='translate(13.36,235.84) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='120.61px' lengthAdjust='spacingAndGlyphs'>Kruskal-Wallis H-statistic</text>
+<text transform='translate(13.36,235.84) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='120.01px' lengthAdjust='spacingAndGlyphs'>Kruskal-Wallis K-statistic</text>
 <text x='33.14' y='14.93' style='font-size: 13.20px; font-family: "Arial";' textLength='332.11px' lengthAdjust='spacingAndGlyphs'>Correlation between ANOVA and Kruskal-Wallis statistics</text>
 </g>
 </svg>
