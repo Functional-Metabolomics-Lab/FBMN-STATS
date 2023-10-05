@@ -14,7 +14,7 @@ To easily install and run Jupyter Notebook in R, we can use Anaconda Navigator: 
 ## Running the Notebooks (R, Python) on the cloud using Google Colab:
 This Notebook can be also executed using Google Colab, a cloud environment for running Jupyter Notebooks. It is commonly used with Python and comes pre-installed with all essential Python packages. However, we can also run Colab with R Notebooks. Basic requirement for using Colab is to have a google account. No extra installation in your computer is needed as such for Jupyter Notebook. 
 - To execute our R notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/R/Stats_Untargeted_Metabolomics.ipynb) <br> 
-- To execute our Python notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/Python/Statistical_Analysis_Summerschool_22_python.ipynb) <br>
+- To execute our Python notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/Python/Stats_Untargeted_Metabolomics_python.ipynb) <br>
 
 In Colab, before starting to run this notebook with your own data, save a copy of this notebook in your own Google Drive by clicking on <b> File &rarr; Save a copy in Drive. </b> You can give whatever meaningful name to your notebook. You can find this newly created file under the folder  <b> 'Colab Notebooks'</b> in your Drive. 
 
