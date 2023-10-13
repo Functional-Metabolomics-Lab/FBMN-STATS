@@ -1,0 +1,28 @@
+
+version: '3'
+services:
+  hitchhiker-jupyter-qiime2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hitchhiker-jupyter-qiime2
+    volumes:
+      - .:/home/jovyan:rw
+    ports:
+    - "9574:9000"
+    restart: unless-stopped
+    command: /home/jovyan/run_server.sh
+    networks:
+    - default
+    - nginx-net
+    deploy:
+     resources:
+       limits:
+         memory: 32000M
+    environment:
+      NB_PASSWORD: ${LOGINPASSWORD:-PASSWORD}
+
+networks:
+  nginx-net:
+    external:
+      name: nginx-net
