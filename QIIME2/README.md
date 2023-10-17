@@ -26,6 +26,14 @@ pip install -r requirements.txt
 pip install git+https://github.com/Wang-Bioinformatics-Lab/GNPSDataPackage.git@2035cd2aa27dd29e311c7a9e171abf7f2207789a
 ```
 
+### Installing Qiime2 Modules
+
+```
+pip install git+https://github.com/Wang-Bioinformatics-Lab/qiime2_normalization_plugin.git@d695201694191eb168942124bea1faca80f7ffc2
+pip install git+https://github.com/Wang-Bioinformatics-Lab/qiime2_imputation_plugin.git@edce69bce04cd653ec22b4ee0327af366a278106
+pip install git+https://github.com/Wang-Bioinformatics-Lab/qiime2_blank_removal_plugin.git@d9b947497530702b6f396e8918c8ce27055650f7
+```
+
 ### Prepping the notebooks
 ```
 jupyter serverextension enable --py qiime2 --sys-prefix
