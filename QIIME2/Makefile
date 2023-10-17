@@ -13,4 +13,4 @@ jupyter-stop:
 	docker-compose -f docker-compose.yml down
 
 attach:
-	docker exec -i -t wanglab-jupyter-qiime2 /bin/bash
+	docker exec -i -t hitchhiker-jupyter-qiime2 /bin/bash
