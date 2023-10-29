@@ -20,8 +20,8 @@ In Colab, before starting to run this notebook with your own data, save a copy o
 
 Although Colab is a Jupyter Notebook environment, Colab is different from Jupyter Notebook in loading files and writing the output files.
 
-## For QIIME2 Users (To be edited):
-The Notebook provided here cannot be accessed using Google Colab. 
+## For QIIME2 Users:
+[Follow the information on the README file in the QIIME2 folder](https://github.com/Functional-Metabolomics-Lab/FBMN-STATS/tree/main/QIIME2#readme) and for more information, refer to the SI document of the article. Note: The Notebook provided here cannot be accessed using Google Colab.  
 
 ## For first time Colab users, some useful information to note:
 
