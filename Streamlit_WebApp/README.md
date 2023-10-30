@@ -1,11 +1,11 @@
 ![banner](assets/FBMN-STATS-GUIed_logo2.png)
 
-[![Open in Statistics App!](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://metabolomics-statistics.streamlit.app/)
+[![Open in Statistics App!](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fbmn-statsguide.gnps2.org/)
 
 A web app implementation of the [statistics notebooks](https://github.com/Functional-Metabolomics-Lab/Statistical-analysis-of-non-targeted-LC-MSMS-data) for metabolomics by the [Functional Metabolomics Lab](https://github.com/Functional-Metabolomics-Lab). These notebooks are developed by the Virtual Multi Omics Lab ([VMOL](https://vmol.org/)).
 
 ## Installation
-- [run the app](https://metabolomics-statistics.streamlit.app/) without installation (recommended for smaller datasets)
+- [run the app](https://fbmn-statsguide.gnps2.org/) without installation (recommended for smaller datasets)
 
 **local installation:**
 - clone this repository and install packages from requirements file
