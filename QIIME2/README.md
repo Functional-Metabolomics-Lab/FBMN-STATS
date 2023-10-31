@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### Installing GNPS Data Package
 ```
-pip install git+https://github.com/Wang-Bioinformatics-Lab/GNPSDataPackage.git@2035cd2aa27dd29e311c7a9e171abf7f2207789a
+pip install git+https://github.com/Wang-Bioinformatics-Lab/GNPSDataPackage.git@52d76594eeffee6fe3eba16c58e9f7800a6c9225
 ```
 
 ### Installing Qiime2 Modules

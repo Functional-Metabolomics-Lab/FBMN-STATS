@@ -19,7 +19,7 @@ COPY requirements.txt /
 RUN /bin/bash -c ". activate qiime2 && pip install -r /requirements.txt"
 
 # Installing GNPS Data Package
-RUN /bin/bash -c ". activate qiime2 && pip install git+https://github.com/Wang-Bioinformatics-Lab/GNPSDataPackage.git@2035cd2aa27dd29e311c7a9e171abf7f2207789a"
+RUN /bin/bash -c ". activate qiime2 && pip install git+https://github.com/Wang-Bioinformatics-Lab/GNPSDataPackage.git@52d76594eeffee6fe3eba16c58e9f7800a6c9225"
 RUN /bin/bash -c ". activate qiime2 && jupyter serverextension enable --py qiime2 --sys-prefix"
 
 # Installing Specific Plugins for Metabolomics
