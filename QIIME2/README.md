@@ -2,9 +2,9 @@
 
 Here we present a jupyter notebook that handles data processing via Qiime2. We have created 3 qiime2 modules that replicates the functionality seen in the R and Python notebooks. You can find the source code for the following modules
 
-1. [Normalization](https://github.com/Wang-Bioinformatics-Lab/qiime2_normalization_plugin)
-1. [Imputation](https://github.com/Wang-Bioinformatics-Lab/qiime2_imputation_plugin)
-1. [Blank Removal](https://github.com/Wang-Bioinformatics-Lab/qiime2_blank_removal_plugin)
+1. [Normalization](https://github.com/Wang-Bioinformatics-Lab/qiime2_normalization_plugin) - [![DOI](https://zenodo.org/badge/702704402.svg)](https://zenodo.org/doi/10.5281/zenodo.10055597)
+1. [Imputation](https://github.com/Wang-Bioinformatics-Lab/qiime2_imputation_plugin) - [![DOI](https://zenodo.org/badge/702804669.svg)](https://zenodo.org/doi/10.5281/zenodo.10055603)
+1. [Blank Removal](https://github.com/Wang-Bioinformatics-Lab/qiime2_blank_removal_plugin) - [![DOI](https://zenodo.org/badge/702863901.svg)](https://zenodo.org/doi/10.5281/zenodo.10055601)
 
 
 Below, we show how to install these plugins. 
