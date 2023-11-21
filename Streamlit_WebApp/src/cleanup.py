@@ -12,6 +12,7 @@ def clean_up_md(md):
         md.copy()
     )  # storing the files under different names to preserve the original files
     # remove the (front & tail) spaces, if any present, from the rownames of md
+    md = md.dropna(how="all")
     md.index = [name.strip() for name in md.index]
     # for each col in md
     # 1) removing the spaces (if any)
@@ -29,7 +30,8 @@ def clean_up_ft(ft):
     ft = (
         ft.copy()
     )  # storing the files under different names to preserve the original files
-    # drop all columns that are not mzML or mzXML file names
+    ft = ft.dropna(how="all")
+     # drop all columns that are not mzML or mzXML file names
     ft.drop(columns=[col for col in ft.columns if not (".mzML" in col or ".mzXML" in col)], inplace=True)
     # remove " Peak area" from column names, contained after mzmine pre-processing
     ft.rename(
