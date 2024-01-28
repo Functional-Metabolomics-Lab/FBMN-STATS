@@ -1,3 +1,8 @@
+To execute this R notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/R/Additional_Notebooks/XGBoost_Tuning_Parameters.ipynb)  
+- To execute this R notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/R/Stats_Untargeted_Metabolomics.ipynb) 
+
+
+
 ![Google-Colab Files Upload](https://github.com/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/logo/FBMN-STATS_logo2.png)
 
 This repository contains the test data and the Jupyter notebooks for the paper [The Hitchhiker’s Guide to Statistical Analysis of Feature-based Molecular Networks from Non-Targeted Metabolomics Data](https://chemrxiv.org/engage/chemrxiv/article-details/6540eb2548dad23120c52242). <br> Using the notebooks provided here, one can perform data merging, data cleanup, blank removal, batch correction, and univariate and multivariate statistical analyses on their non-targeted LC-MS/MS data and Feature-based Molecular Networks.
