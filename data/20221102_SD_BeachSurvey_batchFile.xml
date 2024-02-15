@@ -1,298 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?><batch>
-    <batchstep method="io.github.mzmine.modules.io.import_rawdata_all.AllSpectralDataImportModule">
-        <parameter name="File names">
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_1_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_1_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_2_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_2_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_3_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_3_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_4_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_4_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_5_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_5_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_6_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_6_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_7_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_7_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_8_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_8_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_9_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_9_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_10_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_10_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_11_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_11_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_12_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_12_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_13_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_13_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_14_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_14_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_15_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_15_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_16_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_16_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_17_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_17_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_18_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_18_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_19_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_19_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_20_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_20_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_21_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_21_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_22_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_22_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_23_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_23_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_24_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_24_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_25_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_25_b_180117091040.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_26_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_26_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_27_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_27_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_28_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_28_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_29_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_29_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_30_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_30_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_PPL_Bl_1.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_01-2018_PPL_Bl_2.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_1_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_1_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_2_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_2_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_3_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_3_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_4_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_4_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_5_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_5_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_6_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_6_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_7_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_7_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_8_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_8_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_9_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_9_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_10_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_10_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_11_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_11_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_12_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_12_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_13_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_13_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_14_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_14_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_15_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_15_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_16_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_16_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_17_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_17_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_18_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_18_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_19_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_19_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_20_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_20_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_21_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_21_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_22_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_22_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_23_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_23_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_24_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_24_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_25_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_25_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_26_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_26_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_27_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_27_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_28_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_28_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_29_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_29_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_30_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_30_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_PPL_Blank_1.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_10_2018_PPL_Blank_2.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_1_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_1_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_2_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_2_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_3_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_3_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_4_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_4_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_5_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_5_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_6_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_6_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_7_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_7_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_8_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_8_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_9_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_9_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_10_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_10_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_11_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_11_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_12_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_12_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_13_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_13_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_14_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_14_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_15_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_15_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_16_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_16_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_17_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_17_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_18_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_18_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_19_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_19_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_20_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_20_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_21_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_21_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_22_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_22_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_23_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_23_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_24_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_24_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_25_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_25_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_26_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_26_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_27_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_27_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_28_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_28_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_29_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_29_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_30_a.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_30_b.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_PPL_Bl_1.mzXML</file>
-            <file>D:\Projects\Hitchhiker\NewData_SD_Beach_Survey\SD_12-2017_PPL_Bl_2.mzXML</file>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_massdetection.MassDetectionModule">
+        <parameter name="Raw data files" type="ALL_FILES"/>
+        <parameter name="Scans">
+            <ms_level>1</ms_level>
         </parameter>
-        <parameter name="Advanced import" selected="true">
-            <parameter name="MS1 detector (Advanced)" selected="true" selected_item="Centroid">
-                <module name="Factor of lowest signal">
-                    <parameter name="Noise factor">2.5</parameter>
-                </module>
-                <module name="Centroid">
-                    <parameter name="Noise level">200000.0</parameter>
-                    <parameter name="Detect isotope signals below noise level" selected="false">
-                        <parameter name="Chemical elements">H,C,N,O,S</parameter>
-                        <parameter name="m/z tolerance">
-                            <absolutetolerance>5.0E-4</absolutetolerance>
-                            <ppmtolerance>10.0</ppmtolerance>
-                        </parameter>
-                        <parameter name="Maximum charge of isotope m/z">1</parameter>
+        <parameter name="Scan types (IMS)">All scan types</parameter>
+        <parameter name="Mass detector" selected_item="Centroid">
+            <module name="Factor of lowest signal">
+                <parameter name="Noise factor">2.5</parameter>
+            </module>
+            <module name="Centroid">
+                <parameter name="Noise level">200000.0</parameter>
+                <parameter name="Detect isotope signals below noise level" selected="false">
+                    <parameter name="Chemical elements">H,C,N,O,S</parameter>
+                    <parameter name="m/z tolerance">
+                        <absolutetolerance>5.0E-4</absolutetolerance>
+                        <ppmtolerance>10.0</ppmtolerance>
                     </parameter>
-                </module>
-                <module name="Exact mass">
-                    <parameter name="Noise level"/>
-                    <parameter name="Detect isotope signals below noise level" selected="false">
-                        <parameter name="Chemical elements">H,C,N,O,S</parameter>
-                        <parameter name="m/z tolerance">
-                            <absolutetolerance>5.0E-4</absolutetolerance>
-                            <ppmtolerance>10.0</ppmtolerance>
-                        </parameter>
-                        <parameter name="Maximum charge of isotope m/z">1</parameter>
+                    <parameter name="Maximum charge of isotope m/z">1</parameter>
+                </parameter>
+            </module>
+            <module name="Exact mass">
+                <parameter name="Noise level"/>
+                <parameter name="Detect isotope signals below noise level" selected="false">
+                    <parameter name="Chemical elements">H,C,N,O,S</parameter>
+                    <parameter name="m/z tolerance">
+                        <absolutetolerance>5.0E-4</absolutetolerance>
+                        <ppmtolerance>10.0</ppmtolerance>
                     </parameter>
-                </module>
-                <module name="Local maxima">
-                    <parameter name="Noise level"/>
-                </module>
-                <module name="Recursive threshold">
-                    <parameter name="Noise level"/>
-                    <parameter name="Min m/z peak width"/>
-                    <parameter name="Max m/z peak width"/>
-                </module>
-                <module name="Wavelet transform">
-                    <parameter name="Noise level"/>
-                    <parameter name="Scale level"/>
-                    <parameter name="Wavelet window size (%)"/>
-                </module>
-                <module name="Auto">
-                    <parameter name="Noise level">1000.0</parameter>
-                    <parameter name="Detect isotope signals below noise level" selected="false">
-                        <parameter name="Chemical elements">H,C,N,O,S</parameter>
-                        <parameter name="m/z tolerance">
-                            <absolutetolerance>5.0E-4</absolutetolerance>
-                            <ppmtolerance>10.0</ppmtolerance>
-                        </parameter>
-                        <parameter name="Maximum charge of isotope m/z">1</parameter>
+                    <parameter name="Maximum charge of isotope m/z">1</parameter>
+                </parameter>
+            </module>
+            <module name="Local maxima">
+                <parameter name="Noise level"/>
+            </module>
+            <module name="Recursive threshold">
+                <parameter name="Noise level"/>
+                <parameter name="Min m/z peak width"/>
+                <parameter name="Max m/z peak width"/>
+            </module>
+            <module name="Wavelet transform">
+                <parameter name="Noise level"/>
+                <parameter name="Scale level"/>
+                <parameter name="Wavelet window size (%)"/>
+            </module>
+            <module name="Auto">
+                <parameter name="Noise level">1000.0</parameter>
+                <parameter name="Detect isotope signals below noise level" selected="false">
+                    <parameter name="Chemical elements">H,C,N,O,S</parameter>
+                    <parameter name="m/z tolerance">
+                        <absolutetolerance>5.0E-4</absolutetolerance>
+                        <ppmtolerance>10.0</ppmtolerance>
                     </parameter>
-                </module>
-            </parameter>
-            <parameter name="MS2 detector (Advanced)" selected="true" selected_item="Centroid">
-                <module name="Factor of lowest signal">
-                    <parameter name="Noise factor">2.5</parameter>
-                </module>
-                <module name="Centroid">
-                    <parameter name="Noise level">1000.0</parameter>
-                    <parameter name="Detect isotope signals below noise level" selected="false">
-                        <parameter name="Chemical elements">H,C,N,O,S</parameter>
-                        <parameter name="m/z tolerance">
-                            <absolutetolerance>5.0E-4</absolutetolerance>
-                            <ppmtolerance>10.0</ppmtolerance>
-                        </parameter>
-                        <parameter name="Maximum charge of isotope m/z">1</parameter>
-                    </parameter>
-                </module>
-                <module name="Exact mass">
-                    <parameter name="Noise level"/>
-                    <parameter name="Detect isotope signals below noise level" selected="false">
-                        <parameter name="Chemical elements">H,C,N,O,S</parameter>
-                        <parameter name="m/z tolerance">
-                            <absolutetolerance>5.0E-4</absolutetolerance>
-                            <ppmtolerance>10.0</ppmtolerance>
-                        </parameter>
-                        <parameter name="Maximum charge of isotope m/z">1</parameter>
-                    </parameter>
-                </module>
-                <module name="Local maxima">
-                    <parameter name="Noise level"/>
-                </module>
-                <module name="Recursive threshold">
-                    <parameter name="Noise level"/>
-                    <parameter name="Min m/z peak width"/>
-                    <parameter name="Max m/z peak width"/>
-                </module>
-                <module name="Wavelet transform">
-                    <parameter name="Noise level"/>
-                    <parameter name="Scale level"/>
-                    <parameter name="Wavelet window size (%)"/>
-                </module>
-                <module name="Auto">
-                    <parameter name="Noise level">1000.0</parameter>
-                    <parameter name="Detect isotope signals below noise level" selected="false">
-                        <parameter name="Chemical elements">H,C,N,O,S</parameter>
-                        <parameter name="m/z tolerance">
-                            <absolutetolerance>5.0E-4</absolutetolerance>
-                            <ppmtolerance>10.0</ppmtolerance>
-                        </parameter>
-                        <parameter name="Maximum charge of isotope m/z">1</parameter>
-                    </parameter>
-                </module>
-            </parameter>
+                    <parameter name="Maximum charge of isotope m/z">1</parameter>
+                </parameter>
+            </module>
         </parameter>
-        <parameter name="Spectral library files"/>
+        <parameter name="Denormalize fragment scans (traps)">false</parameter>
+        <parameter name="Output netCDF filename (optional)" selected="false"/>
+    </batchstep>
+    <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_massdetection.MassDetectionModule">
+        <parameter name="Raw data files" type="ALL_FILES"/>
+        <parameter name="Scans">
+            <ms_level>2</ms_level>
+            <scan_definition/>
+        </parameter>
+        <parameter name="Scan types (IMS)">All scan types</parameter>
+        <parameter name="Mass detector" selected_item="Centroid">
+            <module name="Factor of lowest signal">
+                <parameter name="Noise factor">2.5</parameter>
+            </module>
+            <module name="Centroid">
+                <parameter name="Noise level">1000.0</parameter>
+                <parameter name="Detect isotope signals below noise level" selected="false">
+                    <parameter name="Chemical elements">H,C,N,O,S</parameter>
+                    <parameter name="m/z tolerance">
+                        <absolutetolerance>5.0E-4</absolutetolerance>
+                        <ppmtolerance>10.0</ppmtolerance>
+                    </parameter>
+                    <parameter name="Maximum charge of isotope m/z">1</parameter>
+                </parameter>
+            </module>
+            <module name="Exact mass">
+                <parameter name="Noise level"/>
+                <parameter name="Detect isotope signals below noise level" selected="false">
+                    <parameter name="Chemical elements">H,C,N,O,S</parameter>
+                    <parameter name="m/z tolerance">
+                        <absolutetolerance>5.0E-4</absolutetolerance>
+                        <ppmtolerance>10.0</ppmtolerance>
+                    </parameter>
+                    <parameter name="Maximum charge of isotope m/z">1</parameter>
+                </parameter>
+            </module>
+            <module name="Local maxima">
+                <parameter name="Noise level"/>
+            </module>
+            <module name="Recursive threshold">
+                <parameter name="Noise level"/>
+                <parameter name="Min m/z peak width"/>
+                <parameter name="Max m/z peak width"/>
+            </module>
+            <module name="Wavelet transform">
+                <parameter name="Noise level"/>
+                <parameter name="Scale level"/>
+                <parameter name="Wavelet window size (%)"/>
+            </module>
+            <module name="Auto">
+                <parameter name="Noise level">1000.0</parameter>
+                <parameter name="Detect isotope signals below noise level" selected="false">
+                    <parameter name="Chemical elements">H,C,N,O,S</parameter>
+                    <parameter name="m/z tolerance">
+                        <absolutetolerance>5.0E-4</absolutetolerance>
+                        <ppmtolerance>10.0</ppmtolerance>
+                    </parameter>
+                    <parameter name="Maximum charge of isotope m/z">1</parameter>
+                </parameter>
+            </module>
+        </parameter>
+        <parameter name="Denormalize fragment scans (traps)">false</parameter>
+        <parameter name="Output netCDF filename (optional)" selected="false"/>
     </batchstep>
     <batchstep method="io.github.mzmine.modules.dataprocessing.featdet_adapchromatogrambuilder.ModularADAPChromatogramBuilderModule">
         <parameter name="Raw data files" type="ALL_FILES"/>
@@ -323,7 +149,8 @@
             <parameter name="Limit by RT edges">true</parameter>
             <parameter name="Combine MS/MS spectra (TIMS)">false</parameter>
             <parameter name="Lock to feature mobility range">true</parameter>
-            <parameter name="Minimum merged intensity (IMS)" selected="false">2000.0</parameter>
+            <parameter name="Minimum merged intensity (absolute, IMS)" selected="false">250.0</parameter>
+            <parameter name="Minimum merged intensity (relative, IMS)" selected="true">0.01</parameter>
         </parameter>
         <parameter name="Dimension">Retention time</parameter>
         <parameter name="Chromatographic threshold">0.82</parameter>
@@ -410,6 +237,7 @@
             <parameter name="Remove if 13C">true</parameter>
             <parameter name="Exclude isotopes">O</parameter>
         </parameter>
+        <parameter name="Remove redundant isotope rows">false</parameter>
         <parameter name="m/z" selected="false"/>
         <parameter name="Retention time" selected="false"/>
         <parameter name="features duration range" selected="false">
@@ -473,7 +301,6 @@
     <batchstep method="io.github.mzmine.modules.io.projectsave.ProjectSaveAsModule">
         <parameter name="Project file">
             <current_file>D:\Projects\Hitchhiker\SD_BeachSurvey.mzmine</current_file>
-            <last_file>D:\Projects\Hitchhiker\SD_BeachSurvey.mzmine</last_file>
         </parameter>
         <parameter name="Project type">Referencing (small)</parameter>
     </batchstep>
@@ -651,8 +478,6 @@
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
             <current_file>D:\Projects\Hitchhiker\SD_BeachSurvey_GapFilled</current_file>
-            <last_file>D:\Projects\Hitchhiker\SD_BeachSurvey_GapFilled</last_file>
-            <last_file>D:\Projects\Hitchhiker\SD_BeachSurvey_GapFilled.csv</last_file>
         </parameter>
         <parameter name="Merge MS/MS (experimental)" selected="false">
             <parameter name="Select spectra to merge">across samples</parameter>
@@ -686,7 +511,6 @@
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
             <current_file>D:\Projects\Hitchhiker\SD_BeachSurvey_SIRIUS_fixed</current_file>
-            <last_file>D:\Projects\Hitchhiker\SD_BeachSurvey_SIRIUS_fixed</last_file>
         </parameter>
         <parameter name="Merge MS/MS" selected="false">
             <parameter name="Select spectra to merge">across samples</parameter>
