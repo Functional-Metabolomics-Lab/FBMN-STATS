@@ -9,7 +9,7 @@ The result files of the notebook can be found in the Google Drive:
 <b>MASSIVE Datasets from which all the files were selected for MZmine3 </b>: 
 [MSV000082312](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=8a8139d9248b43e0b0fda17495387756) and [MSV000085786](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=c8411b76f30a4f4ca5d3e42ec13998dc) <br>
 
-To easily install and run Jupyter Notebook in R, we can use Anaconda Navigator: [Follow the steps in the document](https://github.com/Functional-Metabolomics-Lab/Jupyter-Notebook-Installation/blob/main/Anaconda_Rkernel_installation_JupyterNotebook_JupyterLab.pdf) <br>
+To easily install and run Jupyter Notebook in R, [follow the steps in the document according to your preferred OS](https://github.com/Functional-Metabolomics-Lab/FBMN-STATS/tree/main/Jupyter-Notebook-Installation-Guides) <br>
 
 ## Running the Notebooks (R, Python) on the cloud using Google Colab:
 This Notebook can be also executed using Google Colab, a cloud environment for running Jupyter Notebooks. It is commonly used with Python and comes pre-installed with all essential Python packages. However, we can also run Colab with R Notebooks. Basic requirement for using Colab is to have a google account. No extra installation in your computer is needed as such for Jupyter Notebook. 
