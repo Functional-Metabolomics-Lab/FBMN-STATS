@@ -18,13 +18,16 @@ This Notebook can be also executed using Google Colab, a cloud environment for r
 - To run the web app implementation of the notebooks, follow the links of the app hosted by different servers: [GNPS2](https://fbmn-statsguide.gnps2.org/), [Streamlit](https://metabolomics-statistics.streamlit.app/) without installation (recommended for smaller datasets)
 
 ### **Disclaimer:**
-GitHub may face challenges rendering Jupyter notebooks due to factors like file size or complex outputs. 
-For full functionality, download the notebook and open it in Jupyter Notebook/JupyterLab, or view it via the Google Colab links mentioned above.
-To copy code into another environment (e.g., RStudio), please use the respective Google Colab or Jupyter viewed version to ensure all content, including HTML in text cells, is accurately transferred. GitHub's rendering limitations might affect some symbols, so following these steps is recommended for optimal compatibility.  
+#### For Code Copying:
+- **GitHub Rendering Issues:** GitHub might not display Jupyter notebooks correctly due to file size or complex outputs. For a complete view, download the notebook and open it with Jupyter Notebook/JupyterLab, or access it through the provided Google Colab links mentioned above.
+- **Code Transfer:** To copy code into another environment (e.g., RStudio), please use the respective Google Colab or Jupyter viewed version to ensure all content, including HTML in text cells, is accurately transferred. GitHub's rendering limitations might affect some symbols, so following these steps is recommended for optimal compatibility.
 
-In Colab, before starting to run this notebook with your own data, save a copy of this notebook in your own Google Drive by clicking on <b> File &rarr; Save a copy in Drive. </b> You can give whatever meaningful name to your notebook. You can find this newly created file under the folder  <b> 'Colab Notebooks'</b> in your Drive. 
+#### For GNPS Quickstart Users:
+- **Quickstart GNPS 2 Recommendation:** We advise Quickstart GNPS users to switch to the latest Quickstart GNPS 2 for FBMN-STATS and accessing the Notebooks. The previous version of Quickstart GNPS does not generate the reformatted output needed for Notebook/Web app integration, leading to incorrect feature tables. To avoid data retrieval issues, refrain from using the older Quickstart version in GNPS to follow this protocol.
 
-Although Colab is a Jupyter Notebook environment, Colab is different from Jupyter Notebook in loading files and writing the output files. For more details, see the information given below for Colab  users.
+#### For Google Colab Users:
+- **Setting Up in Colab:** To use this notebook with your data in Colab, first, save a copy to your Google Drive by selecting **File → Save a copy in Drive**. You can rename the notebook as you see fit. The saved copy will be located in the **'Colab Notebooks'** folder of your Drive.
+- **Colab vs. Jupyter Notebook:** While Colab offers a Jupyter Notebook environment, it differs in file loading and output file generation. For specific instructions tailored to Colab users, refer to the detailed guidance below.
 
 ## For QIIME2 Users:
 [Follow the information on the README file in the QIIME2 folder](https://github.com/Functional-Metabolomics-Lab/FBMN-STATS/tree/main/QIIME2#readme) and for more information, refer to the SI document of the article. Note: The Notebook provided here cannot be accessed using Google Colab.  
