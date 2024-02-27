@@ -23,7 +23,7 @@ This Notebook can be also executed using Google Colab, a cloud environment for r
 - **Code Transfer:** To copy code into another environment (e.g., RStudio), please use the respective Google Colab or Jupyter viewed version to ensure all content, including HTML in text cells, is accurately transferred. GitHub's rendering limitations might affect some symbols, so following these steps is recommended for optimal compatibility.
 
 #### For GNPS Quickstart Users:
-- **Quickstart GNPS 2 Recommendation:** We advise Quickstart GNPS users to switch to the latest Quickstart GNPS 2 for FBMN-STATS and accessing the Notebooks. The previous version of Quickstart GNPS does not generate the reformatted output needed for Notebook/Web app integration, leading to incorrect feature tables. To avoid data retrieval issues, refrain from using the older Quickstart version in GNPS to follow this protocol.
+- **Quickstart GNPS 2 Recommendation:** We advise Quickstart GNPS users to switch to the latest [Quickstart GNPS 2](https://gnps2.org/homepage) for FBMN-STATS and accessing the Notebooks. The previous version of [Quickstart GNPS](https://gnps-quickstart.ucsd.edu/) does not generate the reformatted output needed for Notebook/Web app integration, leading to incorrect feature tables. To avoid data retrieval issues, refrain from using the older Quickstart version in GNPS to follow this protocol.
 
 #### For Google Colab Users:
 - **Setting Up in Colab:** To use this notebook with your data in Colab, first, save a copy to your Google Drive by selecting **File → Save a copy in Drive**. You can rename the notebook as you see fit. The saved copy will be located in the **'Colab Notebooks'** folder of your Drive.
