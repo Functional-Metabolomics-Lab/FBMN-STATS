@@ -17,14 +17,14 @@ This Notebook can be also executed using Google Colab, a cloud environment for r
 - To execute our Python notebook in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/FBMN-STATS/blob/main/Python/Stats_Untargeted_Metabolomics_python.ipynb) <br>
 - To run the web app implementation of the notebooks, follow the links of the app hosted by different servers: [GNPS2](https://fbmn-statsguide.gnps2.org/), [Streamlit](https://metabolomics-statistics.streamlit.app/) without installation (recommended for smaller datasets)
 
-**Disclaimer:**
-<font col = 'red'>GitHub may face challenges rendering Jupyter notebooks due to factors like file size or complex outputs. 
+### **Disclaimer:**
+GitHub may face challenges rendering Jupyter notebooks due to factors like file size or complex outputs. 
 For full functionality, download the notebook and open it in Jupyter Notebook/JupyterLab, or view it via the Google Colab links mentioned above.
 To copy code into another environment (e.g., RStudio), please use the respective Google Colab or Jupyter viewed version to ensure all content, including HTML in text cells, is accurately transferred. GitHub's rendering limitations might affect some symbols, so following these steps is recommended for optimal compatibility.  
 
 In Colab, before starting to run this notebook with your own data, save a copy of this notebook in your own Google Drive by clicking on <b> File &rarr; Save a copy in Drive. </b> You can give whatever meaningful name to your notebook. You can find this newly created file under the folder  <b> 'Colab Notebooks'</b> in your Drive. 
 
-Although Colab is a Jupyter Notebook environment, Colab is different from Jupyter Notebook in loading files and writing the output files.
+Although Colab is a Jupyter Notebook environment, Colab is different from Jupyter Notebook in loading files and writing the output files. For more details, see the information given below for Colab  users.
 
 ## For QIIME2 Users:
 [Follow the information on the README file in the QIIME2 folder](https://github.com/Functional-Metabolomics-Lab/FBMN-STATS/tree/main/QIIME2#readme) and for more information, refer to the SI document of the article. Note: The Notebook provided here cannot be accessed using Google Colab.  
