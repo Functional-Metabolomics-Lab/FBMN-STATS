@@ -18,7 +18,7 @@ This Notebook can be also executed using Google Colab, a cloud environment for r
 - To run the web app implementation of the notebooks, follow the links of the app hosted by different servers: [GNPS2](https://fbmn-statsguide.gnps2.org/), [Streamlit](https://metabolomics-statistics.streamlit.app/) without installation (recommended for smaller datasets)
 
 **Disclaimer:**
-GitHub may face challenges rendering Jupyter notebooks due to factors like file size or complex outputs. 
+<font col = 'red'>GitHub may face challenges rendering Jupyter notebooks due to factors like file size or complex outputs. 
 For full functionality, download the notebook and open it in Jupyter Notebook/JupyterLab, or view it via the Google Colab links mentioned above.
 To copy code into another environment (e.g., RStudio), please use the respective Google Colab or Jupyter viewed version to ensure all content, including HTML in text cells, is accurately transferred. GitHub's rendering limitations might affect some symbols, so following these steps is recommended for optimal compatibility.  
 
