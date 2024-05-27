@@ -5,7 +5,7 @@
 A web app implementation of the [statistics notebooks](https://github.com/Functional-Metabolomics-Lab/Statistical-analysis-of-non-targeted-LC-MSMS-data) for metabolomics by the [Functional Metabolomics Lab](https://github.com/Functional-Metabolomics-Lab). These notebooks are developed by the Virtual Multi Omics Lab ([VMOL](https://vmol.org/)).
 
 ## Installation
-- [run the app](https://metabolomics-statistics.streamlit.app/) without installation (recommended for smaller datasets)
+- [run the app](https://fbmn-statsguide.gnps2.org/) without installation (recommended for smaller datasets)
 
 **local installation:**
 - clone this repository and install packages from requirements file
@@ -19,11 +19,12 @@ A web app implementation of the [statistics notebooks](https://github.com/Functi
 - Principal Component Analysis (PCA)
 - Multivariate
     - PERMANOVA & PCoA
-- Hierachical Clustering & Heatmaps
+    - Hierachical Clustering & Heatmaps
+    - Random Forest classification
 - Univariate 
     - One-way ANOVA & Tukey's post hoc test
     - Kruskal-Wallis & Dunn's post hoc test
-- Student's t-test
+    - Student's t-test
 
 ## Quickstart
 
