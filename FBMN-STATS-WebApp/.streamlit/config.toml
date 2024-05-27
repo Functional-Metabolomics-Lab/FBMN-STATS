@@ -1,0 +1,8 @@
+[theme]
+base="light"
+
+[global]
+developmentMode = false
+
+[server]
+maxUploadSize=512

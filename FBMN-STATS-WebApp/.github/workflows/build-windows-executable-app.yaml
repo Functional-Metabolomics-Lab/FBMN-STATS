@@ -1,0 +1,84 @@
+name: Build executable for Windows
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-executable:
+    runs-on: windows-latest
+
+    env:
+      PYTHON_VERSION: 3.11.0
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Setup virtual environment
+      shell: cmd
+      run: |
+        python -m venv myenv
+
+        call myenv\Scripts\activate.bat   
+
+        pip install -r requirements.txt
+
+        pip install pyinstaller
+
+    - name: Write function to cli.py
+      shell: bash
+      run: |
+        dir D:/a/streamlit-metabolomics-statistics/streamlit-metabolomics-statistics/myenv/Lib/site-packages
+        head -n -2 D:/a/streamlit-metabolomics-statistics/streamlit-metabolomics-statistics/myenv/Lib/site-packages/streamlit/web/cli.py > temp_cli.py
+
+        cat << EOF >> temp_cli.py
+        def _main_run_clExplicit(file, command_line, args=[], flag_options=[]):
+            main._is_running_with_streamlit = True
+            bootstrap.run(file, command_line, args, flag_options)
+
+
+        if __name__ == "__main__":
+            main()
+        EOF
+
+        mv temp_cli.py D:/a/streamlit-metabolomics-statistics/streamlit-metabolomics-statistics/myenv/Lib/site-packages/streamlit/web/cli.py  
+
+    - name: Compile app with pyinstaller
+      shell: cmd
+      run: |
+        call myenv\Scripts\activate.bat 
+        pyinstaller --onefile --additional-hooks-dir ./hooks run.py --clean
+
+
+    - name: Copy everything to dist directory
+      run: |
+        cp -r .streamlit dist/.streamlit
+        cp -r pages dist/pages
+        cp -r src dist/src
+        cp -r assets dist/assets
+        cp -r example-data dist/example-data
+        cp Statistics_for_Metabolomics.py dist/
+
+    - name: Modify .spec file
+      shell: bash
+      run: |
+        cp run_app_temp.spec run_app.spec
+
+    - name: Make executable
+      shell: cmd
+      run: |
+        call myenv\Scripts\activate.bat
+        pyinstaller run_app.spec --clean
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: FBMN-Stats-App
+        path: dist

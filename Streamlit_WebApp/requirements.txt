@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-pingouin
-kaleido
-openpyxl
-scikit-posthocs
-scikit-bio
